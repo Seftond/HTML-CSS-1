@@ -1,0 +1,42 @@
+.heading {
+    background-image: url("https://images2.pics4learning.com/catalog/f/fabricsunflower.jpg");
+    color: white;
+    font-size: 48px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;   
+    text-align: center;
+    padding: 50px; 
+    box-shadow: 20px 20px black;
+    display: flex;
+}
+a:hover{
+    color: yellow;
+}
+#left {
+    float: left;
+    text-align: center;
+}
+#middle{
+    float: inline-end;
+    box-shadow: 20px 20px 20px 20px black;
+
+}
+#right{
+    float:right;
+    text-align: center;
+}
+div{
+    border: solid orange 10px;
+}
+img{
+    height: 300px;
+    width: auto;
+}
+.middle{
+    background-color: #018E42;
+}
+body{
+    background-color: #F7D002;
+}
+
+
